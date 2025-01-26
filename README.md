@@ -35,7 +35,7 @@ Token holders will have a voice in key decisions, including:
 4. **Expansion (12+ months):** Scale up projects and introduce new utilities for the token.
 
 ## Whitepaper
-[Download the Whitepaper]([./AfricaCoin_Whitepaper.pdf](https://drive.google.com/file/d/1Xq9-PVrEU2mW0LQ25-C1mLcQrcJopBiV/view?usp=share_link))
+[Download the Whitepaper](https://drive.google.com/file/d/1Xq9-PVrEU2mW0LQ25-C1mLcQrcJopBiV/view?usp=share_link)
 
 ---
 
